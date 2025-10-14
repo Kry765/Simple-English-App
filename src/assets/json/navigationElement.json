@@ -1,0 +1,19 @@
+    [
+        {
+            "label": "Homepage",
+            "link": "/"
+        },
+        {
+            "label": "About us",
+            "link": "/aboutus"
+        }
+        ,{
+            "label": "Offer",
+            "link": "/offer"
+        },
+        {
+            "label": "Contact",
+            "link": "/contact"
+        }
+    ]
+
